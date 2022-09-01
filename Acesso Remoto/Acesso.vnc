@@ -1,6 +1,5 @@
 [connection]
-host=192.168.10.108
-password=39eaeeea765d9b72
+host=
 [options]
 use_encoding_1=1
 copyrect=1
